@@ -1,0 +1,974 @@
+[
+    {
+        "id":"ae1183d3-a0ac-4e71-9b58-fd2ab97a3bd3",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Afghanistan Afghani",
+        "code":"AFN",
+        "symbol":"؋"
+    },
+    {
+        "id":"d62f4e6d-a0e5-4350-8090-ef846e8c60d0",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Albania Lek",
+        "code":"ALL",
+        "symbol":"Lek"
+    },
+    {
+        "id":"eb615405-0bf0-44be-93e6-a5469be4e036",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Argentina Peso",
+        "code":"ARS",
+        "symbol":"$"
+    },
+    {
+        "id":"6e362cbd-c8ce-4fd6-ac82-f2a779b81ae5",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Aruba Guilder",
+        "code":"AWG",
+        "symbol":"ƒ"
+    },
+    {
+        "id":"171fd88d-f805-40d5-becb-3dabbecbe8c5",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Australia Dollar",
+        "code":"AUD",
+        "symbol":"$"
+    },
+    {
+        "id":"9dc6e586-2ea3-4c92-a457-e1a2262e1707",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Azerbaijan Manat",
+        "code":"AZN",
+        "symbol":"₼"
+    },
+    {
+        "id":"61df86c1-f7ae-429a-bece-2bcf1e298661",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Bahamas Dollar",
+        "code":"BSD",
+        "symbol":"$"
+    },
+    {
+        "id":"ed119c53-28ac-4418-ae9d-ee792309be4b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Barbados Dollar",
+        "code":"BBD",
+        "symbol":"$"
+    },
+    {
+        "id":"75536033-b40e-4c8d-9d0e-195ac96a22d9",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Belarus Ruble",
+        "code":"BYN",
+        "symbol":"Br"
+    },
+    {
+        "id":"90c2ae4a-126e-44d6-9b85-ba174e17f517",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Belize Dollar",
+        "code":"BZD",
+        "symbol":"BZ$"
+    },
+    {
+        "id":"5218dac2-49a5-4786-b946-be3abbfaf87d",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Bermuda Dollar",
+        "code":"BMD",
+        "symbol":"$"
+    },
+    {
+        "id":"1d8452c9-4930-4b13-ae54-e235a651f249",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Bolivia Bolíviano",
+        "code":"BOB",
+        "symbol":"$b"
+    },
+    {
+        "id":"0a659056-438e-4cbc-9c7c-8d8e1ac3c76b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Bosnia and Herzegovina Convertible Mark",
+        "code":"BAM",
+        "symbol":"KM"
+    },
+    {
+        "id":"25687fb9-0db9-4131-94bd-d1c8dbe00f3c",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Botswana Pula",
+        "code":"BWP",
+        "symbol":"P"
+    },
+    {
+        "id":"9557ff22-f79d-4409-ad31-0ce0a4a35a20",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Brazil Real",
+        "code":"BRL",
+        "symbol":"R$"
+    },
+    {
+        "id":"e4282b68-95a8-4548-b4e0-f600c8342270",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Brunei Darussalam Dollar",
+        "code":"BND",
+        "symbol":"$"
+    },
+    {
+        "id":"d4757f84-d12f-4d88-9841-136373a8282c",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Bulgaria Lev",
+        "code":"BGN",
+        "symbol":"лв"
+    },
+    {
+        "id":"0d0c1158-db28-47cf-9ed3-b1e5ad3078ca",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Cambodia Riel",
+        "code":"KHR",
+        "symbol":"៛"
+    },
+    {
+        "id":"ac20e771-13c3-45db-a835-1d38b55f2075",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Canada Dollar",
+        "code":"CAD",
+        "symbol":"$"
+    },
+    {
+        "id":"691cef9c-0c24-40bb-a4b4-5335e89377ff",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Cayman Islands Dollar",
+        "code":"KYD",
+        "symbol":"$"
+    },
+    {
+        "id":"b9288fc0-f4ad-4902-a279-367cddf75797",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Chile Peso",
+        "code":"CLP",
+        "symbol":"$"
+    },
+    {
+        "id":"bb6b16d0-6b26-4bfb-8739-8367d3181e30",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Colombia Peso",
+        "code":"COP",
+        "symbol":"$"
+    },
+    {
+        "id":"cc03435d-808d-4155-b9c7-d3b3e35248fa",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Costa Rica Colon",
+        "code":"CRC",
+        "symbol":"₡"
+    },
+    {
+        "id":"38e4aa46-0d9c-4551-b299-5a274869728f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Croatia Kuna",
+        "code":"HRK",
+        "symbol":"kn"
+    },
+    {
+        "id":"d93c4645-8770-41a7-9d85-2f3690807585",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Cuba Peso",
+        "code":"CUP",
+        "symbol":"₱"
+    },
+    {
+        "id":"f4a46f5b-2279-409d-878a-e38740a24cb7",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Czech Republic Koruna",
+        "code":"CZK",
+        "symbol":"Kč"
+    },
+    {
+        "id":"ffacc84f-1457-41ac-8574-036b74a48bf4",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Denmark Krone",
+        "code":"DKK",
+        "symbol":"kr"
+    },
+    {
+        "id":"b092824f-14ed-49c1-8c18-cdefc42697fd",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Dominican Republic Peso",
+        "code":"DOP",
+        "symbol":"RD$"
+    },
+    {
+        "id":"94752c44-61c2-49a7-b7b9-e16c7073a3a2",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"East Caribbean Dollar",
+        "code":"XCD",
+        "symbol":"$"
+    },
+    {
+        "id":"e8afdc4b-f489-4fd8-9ba4-5e19cdaaa52b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Egypt Pound",
+        "code":"EGP",
+        "symbol":"£"
+    },
+    {
+        "id":"6faeac93-9d20-4527-8cd8-b1aacda58d3e",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"El Salvador Colon",
+        "code":"SVC",
+        "symbol":"$"
+    },
+    {
+        "id":"9f25a8d6-e965-462f-9818-b61172e72f69",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Euro Member Countries",
+        "code":"EUR",
+        "symbol":"€"
+    },
+    {
+        "id":"eadf8352-83c0-41e9-81f1-6b9dc70d3472",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Falkland Islands (Malvinas) Pound",
+        "code":"FKP",
+        "symbol":"£"
+    },
+    {
+        "id":"61c72cd5-8afa-4fe6-9fd9-96c4e7d1940b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Fiji Dollar",
+        "code":"FJD",
+        "symbol":"$"
+    },
+    {
+        "id":"ccfcda17-2a76-4e35-a3ff-8ccd378e5a04",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Ghana Cedi",
+        "code":"GHS",
+        "symbol":"¢"
+    },
+    {
+        "id":"4889f179-9dfe-4600-9151-f090049fc077",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Gibraltar Pound",
+        "code":"GIP",
+        "symbol":"£"
+    },
+    {
+        "id":"83ccb65e-9d35-4ec4-a83e-fbe0efec95c6",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Guatemala Quetzal",
+        "code":"GTQ",
+        "symbol":"Q"
+    },
+    {
+        "id":"9e9fade0-0f14-40c0-a3a8-c4f75c828a7c",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Guernsey Pound",
+        "code":"GGP",
+        "symbol":"£"
+    },
+    {
+        "id":"5138d472-d63a-41f5-bcc2-581976419442",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Guyana Dollar",
+        "code":"GYD",
+        "symbol":"$"
+    },
+    {
+        "id":"815fd599-b264-4e40-8ed3-1d874bf68b30",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Honduras Lempira",
+        "code":"HNL",
+        "symbol":"L"
+    },
+    {
+        "id":"80a5992c-7c84-4c85-aa70-31ccb2673f33",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Hong Kong Dollar",
+        "code":"HKD",
+        "symbol":"$"
+    },
+    {
+        "id":"ee4f5073-29c7-428e-88fd-6cccc2180fa9",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Hungary Forint",
+        "code":"HUF",
+        "symbol":"Ft"
+    },
+    {
+        "id":"71fc6fa6-130e-4124-875e-c72ee6554f6b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Iceland Krona",
+        "code":"ISK",
+        "symbol":"kr"
+    },
+    {
+        "id":"06f0a20d-f24c-4959-b2ad-553c8e461335",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"India Rupee",
+        "code":"INR",
+        "symbol":"₨"
+    },
+    {
+        "id":"7d5299a9-4ffa-43ce-b6c4-f0fbf9471b70",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Indonesia Rupiah",
+        "code":"IDR",
+        "symbol":"Rp"
+    },
+    {
+        "id":"86412bf1-4acd-447f-b593-17bf5920e17e",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Iran Rial",
+        "code":"IRR",
+        "symbol":"﷼"
+    },
+    {
+        "id":"3dd5820f-f84a-4aa7-8b60-681fa437353f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Isle of Man Pound",
+        "code":"IMP",
+        "symbol":"£"
+    },
+    {
+        "id":"aa45932c-6356-4fe1-a2dd-940c9d2fbe36",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Israel Shekel",
+        "code":"ILS",
+        "symbol":"₪"
+    },
+    {
+        "id":"978177a5-8229-461e-8bd6-f1dc80f8061a",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Jamaica Dollar",
+        "code":"JMD",
+        "symbol":"J$"
+    },
+    {
+        "id":"6e915dfc-c137-45d4-8113-660b84b16449",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Japan Yen",
+        "code":"JPY",
+        "symbol":"¥"
+    },
+    {
+        "id":"03d4aaea-0952-4d05-a515-e8e2a9fad236",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Jersey Pound",
+        "code":"JEP",
+        "symbol":"£"
+    },
+    {
+        "id":"1db1dc0d-0092-4483-8b85-6e3830e60e18",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Kazakhstan Tenge",
+        "code":"KZT",
+        "symbol":"лв"
+    },
+    {
+        "id":"5f721883-6e7d-432d-8979-59055987c30f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Korea (North) Won",
+        "code":"KPW",
+        "symbol":"₩"
+    },
+    {
+        "id":"4dde1809-84b5-44e8-aab5-a1f255e24ee3",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Korea (South) Won",
+        "code":"KRW",
+        "symbol":"₩"
+    },
+    {
+        "id":"6c584b51-26d4-47e5-bce8-92a396db2c9b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Kyrgyzstan Som",
+        "code":"KGS",
+        "symbol":"лв"
+    },
+    {
+        "id":"1b1f113c-c29e-48e3-b364-e179170f6333",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Laos Kip",
+        "code":"LAK",
+        "symbol":"₭"
+    },
+    {
+        "id":"144d2645-e88e-43ad-a07d-b50c8c0031e9",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Lebanon Pound",
+        "code":"LBP",
+        "symbol":"£"
+    },
+    {
+        "id":"f443bec5-da76-4811-b286-ecc452758bf9",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Liberia Dollar",
+        "code":"LRD",
+        "symbol":"$"
+    },
+    {
+        "id":"f46ad41a-4efe-4f23-a228-900d94dce28e",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Macedonia Denar",
+        "code":"MKD",
+        "symbol":"ден"
+    },
+    {
+        "id":"6540841f-69ae-4c63-9ab2-3ddcfa3412fa",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Malaysia Ringgit",
+        "code":"MYR",
+        "symbol":"RM"
+    },
+    {
+        "id":"3b5f4cd9-ab1f-46b3-8693-0e283774b616",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Mauritius Rupee",
+        "code":"MUR",
+        "symbol":"₨"
+    },
+    {
+        "id":"6edfc8c9-fa14-4e74-8caf-efe5de3e9578",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Mexico Peso",
+        "code":"MXN",
+        "symbol":"$"
+    },
+    {
+        "id":"30fb806e-8a0a-4770-97bc-b780b7982ba5",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Mongolia Tughrik",
+        "code":"MNT",
+        "symbol":"₮"
+    },
+    {
+        "id":"040f5687-02ed-4828-878a-4ac098ff5352",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Mozambique Metical",
+        "code":"MZN",
+        "symbol":"MT"
+    },
+    {
+        "id":"07a35747-e0fa-4205-a0ea-1dbd08dd8928",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Namibia Dollar",
+        "code":"NAD",
+        "symbol":"$"
+    },
+    {
+        "id":"54f14add-310c-43f7-b103-1c56c58ce056",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Nepal Rupee",
+        "code":"NPR",
+        "symbol":"₨"
+    },
+    {
+        "id":"330047b9-9267-438e-a8af-665becda70aa",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Netherlands Antilles Guilder",
+        "code":"ANG",
+        "symbol":"ƒ"
+    },
+    {
+        "id":"51ca64f0-a400-4391-8654-c2be5baae6fe",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"New Zealand Dollar",
+        "code":"NZD",
+        "symbol":"$"
+    },
+    {
+        "id":"70121fa5-2c07-4116-bac9-6235d13f28b7",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Nicaragua Cordoba",
+        "code":"NIO",
+        "symbol":"C$"
+    },
+    {
+        "id":"d225ddae-515e-4963-92ec-1998f4170c5e",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Nigeria Naira",
+        "code":"NGN",
+        "symbol":"₦"
+    },
+    {
+        "id":"080719e7-f94c-4ce0-9e80-53e873e50553",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Norway Krone",
+        "code":"NOK",
+        "symbol":"kr"
+    },
+    {
+        "id":"5277cbfe-bd9b-4025-a443-cec98f57034d",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Oman Rial",
+        "code":"OMR",
+        "symbol":"﷼"
+    },
+    {
+        "id":"7d42f0b6-56b5-450e-95cf-73b8e9317352",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Pakistan Rupee",
+        "code":"PKR",
+        "symbol":"₨"
+    },
+    {
+        "id":"f7fac5c5-7217-40c9-b7c0-33da5e421129",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Panama Balboa",
+        "code":"PAB",
+        "symbol":"B/."
+    },
+    {
+        "id":"f89d2bb4-cce5-410f-8465-2b0867a3732f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Paraguay Guarani",
+        "code":"PYG",
+        "symbol":"Gs"
+    },
+    {
+        "id":"91e4ab8d-0e93-4ed7-9cd1-bd53c823ec67",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Peru Sol",
+        "code":"PEN",
+        "symbol":"S/."
+    },
+    {
+        "id":"077ba46d-76d3-4631-b9f7-c642fd764fbe",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Philippines Peso",
+        "code":"PHP",
+        "symbol":"₱"
+    },
+    {
+        "id":"1e301dea-6892-4a24-a5cf-f7553c3932a7",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Poland Zloty",
+        "code":"PLN",
+        "symbol":"zł"
+    },
+    {
+        "id":"b79a8b9f-deb7-4996-8585-a5086f938cdb",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Qatar Riyal",
+        "code":"QAR",
+        "symbol":"﷼"
+    },
+    {
+        "id":"b7dde435-9139-47b8-98ce-40843d583de4",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Romania Leu",
+        "code":"RON",
+        "symbol":"lei"
+    },
+    {
+        "id":"fd32b2b0-f0db-40cf-9fea-fbfd1dc64656",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Russia Ruble",
+        "code":"RUB",
+        "symbol":"₽"
+    },
+    {
+        "id":"e97a4aab-8c85-4ded-8bf7-131eaee7492a",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Saint Helena Pound",
+        "code":"SHP",
+        "symbol":"£"
+    },
+    {
+        "id":"954d8497-a595-418c-bb1b-f1a25182201f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Saudi Arabia Riyal",
+        "code":"SAR",
+        "symbol":"﷼"
+    },
+    {
+        "id":"07a71d06-1e84-44df-a9f3-af2a03417178",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Serbia Dinar",
+        "code":"RSD",
+        "symbol":"Дин."
+    },
+    {
+        "id":"d1b54130-812d-47b9-a9ec-53dff056327b",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Seychelles Rupee",
+        "code":"SCR",
+        "symbol":"₨"
+    },
+    {
+        "id":"ad017219-6b59-48d9-a7a9-4a427bcbd625",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Singapore Dollar",
+        "code":"SGD",
+        "symbol":"$"
+    },
+    {
+        "id":"d60276e4-7773-4721-ad6d-c4d4f1647b17",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Solomon Islands Dollar",
+        "code":"SBD",
+        "symbol":"$"
+    },
+    {
+        "id":"1a70bdf4-a8ed-438c-b59d-8e1ab7fd4f02",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Somalia Shilling",
+        "code":"SOS",
+        "symbol":"S"
+    },
+    {
+        "id":"0bc12b7a-a87f-4102-a5d4-e7436de68bdd",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"South Africa Rand",
+        "code":"ZAR",
+        "symbol":"R"
+    },
+    {
+        "id":"fe777a26-6c58-415d-859a-f5a8102f8e34",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Sri Lanka Rupee",
+        "code":"LKR",
+        "symbol":"₨"
+    },
+    {
+        "id":"62a89124-1c6a-4e9c-9c81-ef7b7cff4b2a",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Suriname Dollar",
+        "code":"SRD",
+        "symbol":"$"
+    },
+    {
+        "id":"ae50477d-79f3-4199-8526-9ff085f8909d",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Sweden Krona",
+        "code":"SEK",
+        "symbol":"kr"
+    },
+    {
+        "id":"8c0e634a-b641-4203-9b35-ec08abfe80a1",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Switzerland Franc",
+        "code":"CHF",
+        "symbol":"CHF"
+    },
+    {
+        "id":"3bb09b25-0886-4cdb-b448-f3e480383b94",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Syria Pound",
+        "code":"SYP",
+        "symbol":"£"
+    },
+    {
+        "id":"2c5f84d0-d3e5-422b-88b0-9c24abf585c8",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Taiwan New Dollar",
+        "code":"TWD",
+        "symbol":"NT$"
+    },
+    {
+        "id":"94c01f15-3ec4-4d3f-9e44-b6a0241618db",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Thailand Baht",
+        "code":"THB",
+        "symbol":"฿"
+    },
+    {
+        "id":"a95d9f04-4908-4218-a824-58a8e5cd37aa",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Trinidad and Tobago Dollar",
+        "code":"TTD",
+        "symbol":"TT$"
+    },
+    {
+        "id":"a8eb28a7-ca38-4e9a-9f83-274baea9e54f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Turkey Lira",
+        "code":"TRY",
+        "symbol":"₺"
+    },
+    {
+        "id":"e2e72aff-9e03-4584-aeb9-3a0c60bfccb6",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Tuvalu Dollar",
+        "code":"TVD",
+        "symbol":"$"
+    },
+    {
+        "id":"00921c76-db7a-4d4a-860a-bb4ae670c6ab",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Ukraine Hryvnia",
+        "code":"UAH",
+        "symbol":"₴"
+    },
+    {
+        "id":"b852c758-4dcf-478e-9ee6-c87fc3b45177",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"United Kingdom Pound",
+        "code":"GBP",
+        "symbol":"£"
+    },
+    {
+        "id":"09bc2b92-e93c-4e34-bc56-6f1cb95d6849",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"United States Dollar",
+        "code":"USD",
+        "symbol":"$"
+    },
+    {
+        "id":"6b1aafb1-028e-4007-b27b-facb83e8155f",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Uruguay Peso",
+        "code":"UYU",
+        "symbol":"$U"
+    },
+    {
+        "id":"aa1265db-0252-4095-9f49-e86fc369ab9c",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Uzbekistan Som",
+        "code":"UZS",
+        "symbol":"лв"
+    },
+    {
+        "id":"0e3e642b-1f67-456b-8c22-cec1703f5fe3",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Venezuela Bolívar",
+        "code":"VEF",
+        "symbol":"Bs"
+    },
+    {
+        "id":"24bc3a27-3633-4719-8434-f4cb142fdac3",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Viet Nam Dong",
+        "code":"VND",
+        "symbol":"₫"
+    },
+    {
+        "id":"949dfed7-d805-4d89-9d5a-fbdd2cca3201",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Yemen Rial",
+        "code":"YER",
+        "symbol":"﷼"
+    },
+    {
+        "id":"ac10543f-7c1c-42c8-a850-a6fc59a36139",
+        "created_at":"2024-06-06T02:16:33.465813Z",
+        "updated_at":"2024-06-06T02:16:33.465813Z",
+        "is_active":true,
+        "name":"Zimbabwe Dollar",
+        "code":"ZWD",
+        "symbol":"Z$"
+    }
+]

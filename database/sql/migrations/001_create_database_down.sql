@@ -1,0 +1,1 @@
+DROP DATABASE IF EXISTS global_investments_portfolio;

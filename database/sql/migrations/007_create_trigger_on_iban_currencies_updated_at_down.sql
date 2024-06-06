@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS update_iban_currencies_timestamp ON iban_currencies;

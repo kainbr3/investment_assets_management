@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS update_iban_countries_timestamp ON iban_countries;

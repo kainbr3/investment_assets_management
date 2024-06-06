@@ -1,0 +1,1 @@
+CREATE database global_investments_portfolio;
